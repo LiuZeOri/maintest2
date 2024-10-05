@@ -1,0 +1,3 @@
+[submodule "Content/Movies"]
+	path = Content/Movies
+	url = https://github.com/LiuZeOri/movies.git
